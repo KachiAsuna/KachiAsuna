@@ -2,7 +2,7 @@
 
 ## 🎓 Kỹ năng
 - 💻 Ngôn ngữ lập trình: HTML / CSS / JS
-- 🎊 Sở thích: Minecraft Building
+- 🎊 Sở thích: Nghe Nhạc / Xem Phim
 
 ## 🔥 Liên hệ
 - 🍔 Email: ntt.tuantai.412@gmail.com
