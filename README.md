@@ -10,4 +10,4 @@
 - 🍉 Discord Server: https://discord.gg/evqNAhwaj8
 
 ## 💻 Website
-- kachiasuna.gihub.io
+- 💻 kachiasuna.gihub.io
