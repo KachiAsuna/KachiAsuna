@@ -11,3 +11,4 @@
 
 ## 💻 Website
 - 💻 kachiasuna.gihub.io
+- 💻 https://ntt-tuantai.carrd.co/
