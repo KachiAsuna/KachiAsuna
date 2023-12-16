@@ -10,5 +10,5 @@
 - 🍉 Discord Server: https://discord.gg/evqNAhwaj8
 
 ## 💻 Website
-- 💻 kachiasuna.gihub.io
+- 💻 https://kachiasuna.gihub.io/
 - 💻 https://ntt-tuantai.carrd.co/
